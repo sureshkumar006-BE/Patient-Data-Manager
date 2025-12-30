@@ -1,0 +1,5 @@
+[2025-12-30 23:00:33.365750] Invalid Diagnosis: {'patient_id': 'P031', 'name': 'Abi', 'age': '23', 'diagnosis': 'oter', 'admission_date': '2024-12-07'}
+[2025-12-30 23:02:03.536974] Invalid Patient ID: {'patient_id': 'PO31', 'name': 'Abi', 'age': '21', 'diagnosis': 'Asthma', 'admission_date': '2024-07-24'}
+[2025-12-30 23:03:53.445514] Invalid Patient ID: {'patient_id': 'PO35', 'name': 'Adhi', 'age': '26', 'diagnosis': 'other', 'admission_date': '2023-08-20'}
+[2025-12-30 23:03:53.446689] Invalid Diagnosis: {'patient_id': 'PO35', 'name': 'Adhi', 'age': '26', 'diagnosis': 'other', 'admission_date': '2023-08-20'}
+[2025-12-30 23:07:34.666088] Invalid Patient ID: {'patient_id': 'PO31', 'name': 'Abi Sharma', 'age': '23', 'diagnosis': 'Other', 'admission_date': '2024-12-07'}

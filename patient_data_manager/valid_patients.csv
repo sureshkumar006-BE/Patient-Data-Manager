@@ -1,0 +1,32 @@
+patient_id,name,age,diagnosis,admission_date
+P001,John Smith,45,Hypertension,2024-01-15
+P002,Jane Doe,62,Diabetes,2024-01-10
+P003,Robert Brown,34,Asthma,2024-01-18
+P004,Mary Johnson,28,Migraine,2023-12-20
+P005,David Wilson,55,Arthritis,2024-01-05
+P006,Sarah Miller,42,Hypertension,2024-01-12
+P007,Michael Davis,38,Asthma,2024-01-14
+P008,Emily Wilson,29,Migraine,2024-01-08
+P009,James Taylor,71,Diabetes,2024-01-03
+P010,Lisa Anderson,33,Asthma,2024-01-16
+P011,Thomas Moore,59,Hypertension,2024-01-11
+P012,Patricia White,47,Arthritis,2024-01-07
+P013,Charles Harris,65,Diabetes,2024-01-09
+P014,Amanda Martin,31,Migraine,2024-01-13
+P015,Daniel Thompson,52,Hypertension,2024-01-17
+P016,Jennifer Garcia,26,Asthma,2024-01-19
+P017,Paul Martinez,48,Arthritis,2024-01-04
+P018,Nancy Robinson,39,Migraine,2024-01-06
+P019,Kevin Lee,57,Diabetes,2024-01-02
+P020,Laura Walker,44,Hypertension,2024-01-20
+P021,Mark Hall,36,Asthma,2024-01-21
+P022,Sandra King,63,Diabetes,2024-01-22
+P023,Steven Wright,41,Other,2024-01-23
+P024,Donna Scott,50,Arthritis,2024-01-24
+P025,Eric Young,32,Migraine,2024-01-25
+P026,Margaret Allen,68,Diabetes,2023-12-28
+P027,Brian Baker,53,Hypertension,2023-12-29
+P028,Ruth Nelson,30,Asthma,2023-12-30
+P029,Gary Carter,46,Arthritis,2023-12-31
+P030,Sharon Mitchell,37,Migraine,2024-01-01
+P031,Abinash,23,Other,2024-11-11
